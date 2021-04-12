@@ -17,6 +17,6 @@ describe('Photo is rendering', () => {
   })
   // it('renders', () => {
   //   const { getByTestId } = render(<PhotoList currentPhotos={photo} />);
-  //   expect(getByTestId('imgid').getAttribute('alt')).toEqual('Grocery aisle')
+  //   expect(getByTestId('imgid')).getAttribute('alt').toEqual('true')
   // })
 })

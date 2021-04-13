@@ -3,6 +3,7 @@
 exports[`Photo is rendering matches snapshot 1`] = `
 <DocumentFragment>
   <div>
+    <div />
     <div
       class="flex-row"
     />

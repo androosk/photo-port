@@ -43,6 +43,7 @@ const Nav = (props) => {
                   setContactSelected(false);
                 }}>
                 {capitalizeFirstLetter(category.name)}
+                &nbsp;
               </span>
             </li>
           ))}

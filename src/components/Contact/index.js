@@ -45,7 +45,7 @@ const ContactForm = () => {
 
   return (
     <section>
-      <h1>
+      <h1 data-testid="contact-me">
         Contact Me
       </h1>
       <form id="contact-form" onSubmit={handleSubmit}>
@@ -66,7 +66,7 @@ const ContactForm = () => {
             <p className="error-text">{errorMessage};</p>
           </div>
         )}
-        <button type="submit">Submit</button>
+        <button type="submit" data-testid="submit">Submit</button>
       </form>
     </section>
   )

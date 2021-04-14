@@ -16,4 +16,4 @@ A ReactJS portfolio website for a professional photographer
 4. Push your changes to github
 
 ## Testable Code
-All components are testable using react jest. Each component contains a test folder with a snapshot folder. Many test are already written. Simply do npm run test from the console.
+All components are testable using react jest. Each component contains a test folder with a snapshot folder. Many tests are already written. Simply do npm run test from the console.
